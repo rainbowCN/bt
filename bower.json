@@ -1,0 +1,11 @@
+{
+  "name": "bt",
+  "version": "0.0.1",
+  "homepage": "https://github.com/rainbowCN/bt",
+  "authors": [
+    "rainbowCN <viewsoft@yeah.net>"
+  ],
+  "description": "test",
+  "main": "/dist/js/bt.js",
+  "license": "MIT"
+}
