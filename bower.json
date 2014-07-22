@@ -7,5 +7,8 @@
   ],
   "description": "test",
   "main": "/dist/js/bt.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
 }
