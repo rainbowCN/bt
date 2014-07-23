@@ -10,7 +10,7 @@
   "ignore": [
     "/src",
     "/bower_components"
-  ]
+  ],
   "license": "MIT",
   "dependencies": {
     "bootstrap": "~3.2.0"
